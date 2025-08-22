@@ -30,7 +30,7 @@ It leverages **multi-agent collaboration** to streamline marketing workflows suc
 
 ## ⚙️ Installation & Setup
 
-1. **Clone the repo**
+1.**Clone the repo**
    ```bash
    git clone https://github.com/stanishq2710/Brandbots-Collective.git
    cd Brandbots-Collective
@@ -61,4 +61,5 @@ Fork the repo
 Create a feature branch
 
 Submit a Pull Request
+
 
