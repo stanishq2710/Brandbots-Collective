@@ -49,17 +49,16 @@ It leverages **multi-agent collaboration** to streamline marketing workflows suc
   ```
 
 4.**Set environment variables**
-    Create a .env file in the root:
-    GOOGLE_API_KEY=your_google_api_key
+   ```env
+    GEMINI_API_KEY=your_google_api_key
     SERPER_API_KEY=your_serper_api_key
+   ```
 
-
-🤝 Contributing
-
-Contributions are welcome!
+**Contributions are welcome!**
 
 Fork the repo
 
 Create a feature branch
 
 Submit a Pull Request
+
